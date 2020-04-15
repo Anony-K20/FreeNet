@@ -5,15 +5,4 @@ Esta herramienta ha sido creada para crear una Virtual Network Private (VPN) o u
 
 # Instalacion
 Git clone https://github.com/Anony-K20/FreeNet
-Bash install.sh
-
-# FotoSploit
-    FotoSploit es un exploit que ensambla la foto
-    de nuestra víctima en un enlace falso {phishing}
-    
-    FotoSploit in
-    Kali linux [nethunter]
-    UserLand
-    ubuntu
-    parrot
-    etc..
+Bash install.sh..
