@@ -8,7 +8,7 @@ Esta herramienta ha sido creada para crear una Virtual Network Private (VPN) o u
     de nuestra víctima en un enlace falso {phishing}
     
     FotoSploit in
-    Kali linux [nethunter]
+    Kali linux nethunter
     UserLand
     ubuntu
     parrot
